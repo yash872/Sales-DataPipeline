@@ -7,7 +7,7 @@ We will design a system using AWS services such as S3, Lambda, Glue, DynamoDB, K
 
 
 ## Architectural Diagram
-![Architecture Design](https://github.com/yash872/E-Commerce-DataPipeline/blob/main/Images/E-CommerceDataPipeline.png)
+![Architecture Design](https://github.com/yash872/E-Commerce-DataPipeline/blob/main/Images/SalesDataPipeline.jpg)
 
 ***
 
